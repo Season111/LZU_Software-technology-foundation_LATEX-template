@@ -6,10 +6,6 @@
 ## 引言
  兰州大学电信类软件技术基础实验课程要求每次将自己的作业以word的形式上交，而word很难将自己的作业简洁美观的上传上去。于是在众多学长的推荐下我尝试了下Latex来写自己的作业发现效果很好，在结合了几个模板后有了属于自己的一套软件技术基础作业模板。
 
-@[toc](目录)
-
-****
-
 
 ## 使用
 1.使用时要先将protobuf文件拖入自己的texlive的texlive\2021\texmfdist\tex\latex文件下才可以正常使用，模板为大家提供了（见example）blueish，solarized，tomorrow三种 不同代码界面风格，我最喜欢tomorrow风格，当然默认也是这种界面，大家如果想要更改详情见example下的readme
