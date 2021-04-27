@@ -10,6 +10,12 @@
 ## 使用
 1.使用时要先将protobuf文件拖入自己的texlive的texlive\2021\texmfdist\tex\latex文件下才可以正常使用，模板为大家提供了（见example）blueish，solarized，tomorrow三种 不同代码界面风格，我最喜欢tomorrow风格，当然默认也是这种界面，大家如果想要更改详情见example下的readme  
 2.使用直接将自己的代码复制进search.proto文件中即可，图片复制进文件夹中，运行即可生成自己作业的pdf文件
+
+## 成品参考图片
+![main_页面_1](https://github.com/Season111/LZU_Software-technology-foundation_LATEX-template/blob/main/LZU_Software-technology-foundation_LATEX-template/main/main_%E9%A1%B5%E9%9D%A2_1.png)
+![main_页面_2](https://github.com/Season111/LZU_Software-technology-foundation_LATEX-template/blob/main/LZU_Software-technology-foundation_LATEX-template/main/main_%E9%A1%B5%E9%9D%A2_2.png)
+![main_页面_2](https://github.com/Season111/LZU_Software-technology-foundation_LATEX-template/blob/main/LZU_Software-technology-foundation_LATEX-template/main/main_%E9%A1%B5%E9%9D%A2_5.png)
+
 ## 参考
 example中的部分参考了这里的部分设置（https://github.com/aytchell/latex-listings-protobuf）
 
