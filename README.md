@@ -1,5 +1,7 @@
 # LZU_软件技术基础_LATEX模板
+
 ![main_页面0](https://socialify.git.ci/Season111/LZU_Software-technology-foundation_LATEX-template/image?language=1&owner=1&stargazers=1&theme=Light)
+
 **LATEX**生成的pdf文件排版相较word操作更为简易，更为整洁美观，而word达到相类似的结果需要较大努力，此模板便于编辑提交软件技术基础实验课作业，使作业更为美观
 
 
